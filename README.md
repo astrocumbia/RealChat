@@ -1,9 +1,10 @@
-# Spika
+# RealChat
+This is a fork from Spika Chat
 
-Spika is messenger module for Web/iOS/Android with backend. 
+RealChat is messenger module for Web/iOS/Android with backend. 
 You can include messenger feature to your app or service with minimum code.
 
-For detail please visit our web site.
+For detail please visit Spika web site.
 http://spikaapp.com
 
 ![Demo](https://github.com/cloverstudio/Spika/blob/master/spika_demo_new.gif "Demo")
