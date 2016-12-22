@@ -1,29 +1,28 @@
 # RealChat
-This is a fork from Spika Chat
+A fork from (the now dead) Spika Chat.
 
-RealChat is messenger module for Web/iOS/Android with backend. 
-You can include messenger feature to your app or service with minimum code.
+RealChat is messenger for Web/iOS/Android. 
 
 For detail please visit Spika web site.
 http://spikaapp.com
 
 ![Demo](https://github.com/cloverstudio/Spika/blob/master/spika_demo_new.gif "Demo")
 
-Instruction for each device you can see here.
+Instructions for each device are below;
 
 ## Backend
 
 https://github.com/cloverstudio/Spika/tree/master/web/src/server
 
-## Web Client
+## Web Client;
 
 https://github.com/cloverstudio/Spika/tree/master/web/src/client
 
-## Android
+## Android;
 
 https://github.com/cloverstudio/Spika/tree/master/Android
 
-## iOS
+## iOS;
 
 https://github.com/cloverstudio/Spika/tree/master/iOS
 
